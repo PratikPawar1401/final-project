@@ -1,0 +1,24 @@
+curl https://api.github.com/repos/PratikPawar1401/mcino-Introduction-to-Git-and-GitHub
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"id":1188598045,"node_id":"R_kgDORtiRHQ","name":"mcino-Introduction-to-Git-and-GitHub","full_nam 
+                    e":"PratikPawar1401/mcino-Introduction-to-Git-and-GitHub","private":false,"owner":{"login":"Prati 
+                    kPawar...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+                    X-GitHub-Media-Type: github.v3; format=json
+                    x-github-api-version-selected: 2022-11-28
+                    Access-Control-Expose-Headers: ETag, Li...
+Forms             : {}
+Headers           : {[Vary, Accept,Accept-Encoding, Accept, X-Requested-With], [X-GitHub-Media-Type, github.v3;       
+                    format=json], [x-github-api-version-selected, 2022-11-28], [Access-Control-Expose-Headers, ETag,  
+                    Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+                    X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes,
+                    X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO,
+                    X-GitHub-Request-Id, Deprecation, Sunset]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 21650
